@@ -4,3 +4,17 @@
 <p align="center">
   <img src="logo_size.jpg" >
 </p>
+
+# Hurias Lopes
+<sub>*Data Scientist* </sub>
+
+Falta colocar 
+
+**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/fernando-hurias)
+* [Medium](https://www.medium.com)
+
+
+## Projetos:

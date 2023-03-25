@@ -18,3 +18,4 @@ Falta colocar
 
 
 ## Projetos:
+* **Classificação de Anúncios de Mídia Social:** https://bit.ly/SocialMediaAdsClassification 
